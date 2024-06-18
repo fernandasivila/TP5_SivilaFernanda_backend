@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6671a814eeb3ed5937f1f64f"
+  },
+  "price": 120,
+  "categoryExpectant": "L",
+  "purchaseDate": "13/06/2024",
+  "expectant": {
+    "$oid": "666fa752fa1a6e6857b57dff"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6671af6eeeb3ed5937f1f6ae"
+  },
+  "price": 99.9,
+  "categoryExpectant": "L",
+  "purchaseDate": "12/06/2024",
+  "expectant": {
+    "$oid": "666fa76efa1a6e6857b57e01"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6671b7aa469b71d7d3307995"
+  },
+  "price": 129,
+  "categoryExpectant": "L",
+  "purchaseDate": "14/06/2024",
+  "expectant": {
+    "$oid": "666fb8160538f564d9ed9413"
+  },
+  "__v": 0
+}]

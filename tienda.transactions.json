@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "666f9e423fba8c7d405421c2"
+  },
+  "originCoin": "USA",
+  "originAmount": 100,
+  "destinationCoin": "ARS",
+  "destinationAmount": 20,
+  "emailClient": "juan@gmail.com",
+  "conversionRate": 0.2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66710d3689c0b9e69c515c16"
+  },
+  "originCoin": "KES",
+  "originAmount": 320,
+  "destinationCoin": "AZN",
+  "destinationAmount": 4.25,
+  "emailClient": "prueba@gmail.com",
+  "conversionRate": 0.013272,
+  "__v": 0
+}]

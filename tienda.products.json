@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "6671e58cc919d479b17cbcd0"
+  },
+  "name": "Celular Samsung Galaxy A14 5G 128/4GB Silver",
+  "description": "Salí y tomá fotos de grandes paisajes con la cámara ultra gran angular y un espectro completo de colores con la cámara principal de 50 MP. Sacate selfies reales con la cámara frontal de 13 MP, o incluso capturá pequeños detalles con la cámara macro.",
+  "image": "image-1718740364174.jpg",
+  "price": 434.999,
+  "stock": 8,
+  "outstanding": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6671e75bc919d479b17cbce7"
+  },
+  "name": "SAMSUNG TELEFONO CELULAR LIBRE SM-A346MZK A34 5G 128GB | AWESOME GRAPHITE",
+  "description": "Tu Galaxy A14 5G te acompaña durante todo el día. Su batería (típica) de 5.000 mAh* le da energía a tu smartphone por más de 2 días.",
+  "image": "image-1718740827813.jpg",
+  "price": 371.923,
+  "stock": 11,
+  "outstanding": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6671e7c7c919d479b17cbceb"
+  },
+  "name": "Smart TV 4K Ultra HD con Google TV 75\"",
+  "description": "Disfruta de tu contenido favorito de Google TV en 4K HDR gracias al color, el contraste y la claridad de alta calidad de BRAVIA.Realismo impresionante con el 4K HDR Processor X1™ Acerca cualquier contenido al 4K con 4K X-Reality™ PRO",
+  "image": "image-1718740935834.jpg",
+  "price": 2299999,
+  "stock": 28,
+  "outstanding": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6671e87ec919d479b17cbcf2"
+  },
+  "name": "Control Dualsense EDGE ZCP1 para PS5",
+  "description": "Controles extremadamente personalizables Las tapas de joystick intercambiables, los controles reasignables y las configuraciones personalizadas harán que tu control inalámbrico DualSense Edge™ sea exclusivamente suyo.",
+  "image": "image-1718741118514.png",
+  "price": 699.999,
+  "stock": 33,
+  "outstanding": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6671e8fcc919d479b17cbcf8"
+  },
+  "name": "Auriculares inalámbricos con noise cancelling WH-1000XM5",
+  "description": " Dos procesadores controlan los varios micrófonos para ofrecer un sistema de noise cancelling sin precedentes, al tiempo que el optimizador de NC automático maximiza automáticamente el noise cancelling en función del entorno y de cómo uses los auriculares. La unidad de diafragma de 30 mm especialmente diseñada ofrece una calidad de sonido superior para todo tu entretenimiento.",
+  "image": "image-1718741244082.jpg",
+  "price": 599.999,
+  "stock": 10,
+  "outstanding": true,
+  "__v": 0
+}]

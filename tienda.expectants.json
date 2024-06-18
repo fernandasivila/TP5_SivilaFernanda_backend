@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "666fa752fa1a6e6857b57dff"
+  },
+  "surname": "Sivila",
+  "name": "Fernanda",
+  "dni": "45761468",
+  "email": "fersivila@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666fa76efa1a6e6857b57e01"
+  },
+  "surname": "Tolaba",
+  "name": "Maria",
+  "dni": "364337473",
+  "email": "maria@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666fb8160538f564d9ed9413"
+  },
+  "surname": "Sivila",
+  "name": "Daniel",
+  "dni": "23763272373",
+  "email": "daniel@gmail.com",
+  "__v": 0
+}]
